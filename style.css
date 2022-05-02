@@ -1,0 +1,26 @@
+#get_text{
+    background-color: red;
+    padding: 7px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    border: 1px solid gray;
+}
+
+#get_json{
+    background-color: rgb(0, 72, 255);
+    padding: 7px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    border: 1px solid gray;
+}
+
+#get_api{
+    background-color: rgb(32, 157, 15);
+    padding: 7px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    border: 1px solid gray;
+}
